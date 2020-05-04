@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "John Sandford O'Neill"
 title_separator          : "-"
-name                     : &name "Your Name"
+name                     : &name "John Sandford O'Neill"
 description              : &description "PhD Student in Soft Matter Photonics at the University of Oxford"
 url                      : https://hhpp.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
