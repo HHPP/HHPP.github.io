@@ -6,13 +6,13 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-locale                   : "en-US"
+locale                   : "en-GB"
 
 title                    : "John Sandford O'Neill"
 title_separator          : "-"
 name                     : &name "John Sandford O'Neill"
 description              : &description "PhD Student at the University of Oxford"
-url                      : https://www.johnsandfordoneill.co.uk/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://www.johnsandfordoneill.co.uk # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "hhpp/hhpp.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
@@ -103,7 +103,7 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "https://www.linkedin.com/in/johnsandfordoneill/"
+  linkedin         : "johnsandfordoneill"
   orcid            : "http://orcid.org/0000-0002-7629-483X"
   pinterest        :
   soundcloud       :
