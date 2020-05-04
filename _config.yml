@@ -7,7 +7,6 @@
 
 # Site Settings
 locale                   : "en-US"
-
 title                    : "John Sandford O'Neill"
 title_separator          : "-"
 name                     : &name "John Sandford O'Neill"
