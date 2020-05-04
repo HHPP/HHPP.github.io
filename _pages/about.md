@@ -8,4 +8,4 @@ redirect_from:
   - /about.html
 ---
 
-This is the John's website.
+This is John's website.
