@@ -9,4 +9,4 @@ redirect_from:
 
 {% include base_path %}
 
-Coming soon...
+Coming soon... In the meantime please see [LinkedIn](https://www.linkedin.com/in/johnsandfordoneill/)
