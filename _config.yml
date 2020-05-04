@@ -7,15 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-<<<<<<< HEAD
-title                    : "John Sandford O'Neill"
-title_separator          : "-"
-name                     : &name "John Sandford O'Neill"
-description              : &description "PhD Student in Soft Matter Photonics at the University of Oxford"
-url                      : https://hhpp.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "HHPP/HHPP.github.io"
-=======
+
 title                    : "Your Name / Site Title"
 title_separator          : "-"
 name                     : &name "Your Name"
@@ -23,7 +15,6 @@ description              : &description "personal description"
 url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
->>>>>>> parent of 163a5d8... Update _config.yml
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
