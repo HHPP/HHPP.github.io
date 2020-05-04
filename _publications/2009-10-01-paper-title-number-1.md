@@ -6,7 +6,7 @@ excerpt: 'Two‐photon laser writing is a powerful technique for creating intric
 date: 2018-10-30
 venue: 'Advanced Optical Materials'
 paperurl: 'https://onlinelibrary.wiley.com/doi/full/10.1002/adom.201800515'
-citation: 'Tartan, C. C., Sandford O’Neill, J. J., Salter, P. S., Aplinc, J., Booth, M. J., Ravnik, M., Morris, S. M., Elston, S. J., &quot;Read on Demand Images in Laser-Written Polymerizable Liquid Crystal Devices.&quot; <i>Advanced Optical Materials</i>, **6**, 1800515 (2018)'
+citation: 'Tartan, C. C., Sandford O’Neill, J. J., Salter, P. S., Aplinc, J., Booth, M. J., Ravnik, M., Morris, S. M., Elston, S. J., &quot;Read on Demand Images in Laser-Written Polymerizable Liquid Crystal Devices.&quot; <i>Advanced Optical Materials</i>, <b>6</b>, 1800515 (2018)'
 ---
 
 
