@@ -13,4 +13,4 @@ Topological defects are a consequence of broken symmetry in ordered systems and 
 
 [Download paper here](http://hhpp.github.io/files/Electrically-tunable positioning of topological defects in liquid crystals.pdf)
 
-I have written a "Behind The Paper" post explaining topological defects in liquid crystals, which you can find [here](https://www.google.com). 
+I have written a "Behind The Paper" post explaining topological defects in liquid crystals, which you can find [here](https://chemistrycommunity.nature.com/channels/1465-behind-the-paper/posts/66317-bringing-order-to-disorder-topological-defects-in-liquid-crystals). 
