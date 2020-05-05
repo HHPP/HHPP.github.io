@@ -1,7 +1,6 @@
 ---
 title: 'Placeholder2'
-# header:
-#   teaser: "images\image-alignment-300x200.jpg"
+#teaser: "images\image-alignment-300x200.jpg"
 date: 2020-05-05
 permalink: /posts/2020/05/Placeholder2/
 tags:

@@ -1,8 +1,8 @@
 ---
-layout: single
 title:  "Draft Post"
 header:
   teaser: "images\image-alignment-300x200.jpg"
+date: 2020-05-02
 categories: 
 tags:
 ---
