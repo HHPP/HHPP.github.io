@@ -12,8 +12,19 @@ I'm John Sandford O'Neill, a PhD student at the University of Oxford working on 
 
 Latest News
 ======
-5th May 2020
+## 5th May 2020
 
 My latest paper "Electrically-tunable positioning of topological defects in liquid crystals" has been [published in Nature Communications today](https://www.nature.com/articles/s41467-020-16059-1)! 
 
 I have written a "Behind The Paper" post explaining topological defects in liquid crystals, which you can find [here](https://chemistrycommunity.nature.com/channels/1465-behind-the-paper/posts/66317-bringing-order-to-disorder-topological-defects-in-liquid-crystals). 
+
+
+## 31st July 2019
+
+<figure>
+  <img src="http://hhpp.github.io/images/IET Badge 2019.jpg"/>
+</figure>
+
+I have been announced as the winner of an [Institution of Engineering and Technology (IET)](https://www.theiet.org/) postgraduate research award! 
+
+You can read more about the IET award and my research in this article ["Flexible screens and nanoscale printing earn national recognition for DPhil candidate"](https://eng.ox.ac.uk/news/flexible-screens-and-nanoscale-printing-earn-national-recognition-for-dphil-candidate/) from the Department of Engineering Science at Oxford. 
