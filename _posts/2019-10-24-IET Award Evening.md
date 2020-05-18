@@ -8,13 +8,13 @@ tags:
 Today I received an award from the [Institution of Engineering and Technology (IET)](https://www.theiet.org/) at a fantastic ceremony at Saville Place in London. The IET awards recognise postgraduate research students from around the world conducting research in engineering-related topics. You can read about the 2019 winners [here](https://www.theiet.org/impact-society/awards-scholarships/iet-postgraduate-research-awards/2019-winners/). 
 
 <figure>
-  <img src="http://hhpp.github.io/images/IET_award_evening_2.jpg" alt="John Sandford O'Neill"/>
+  <img src="http://hhpp.github.io/images/IET_award_evening_2_comp.jpg" alt="John Sandford O'Neill"/>
 </figure>
 
 I was awarded the [Leslie H. Paddle scholarship](https://www.theiet.org/impact-society/awards-scholarships/iet-postgraduate-research-awards/) which was established in 1979 under a bequest from Leslie H. Paddle, the vice-president of the Institution of Electronic and Radio Engineers (IERE).
 
 <figure>
-  <img src="http://hhpp.github.io/images/IET_award_evening.jpg" alt="My family"/>
+  <img src="http://hhpp.github.io/images/IET_award_evening_comp.jpg" alt="My family"/>
   <figcaption>Celebrating with my family</figcaption>
 </figure>
 
