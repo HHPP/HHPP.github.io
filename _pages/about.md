@@ -18,6 +18,8 @@ My latest paper "Electrically-tunable positioning of topological defects in liqu
 
 I have written a "Behind The Paper" post explaining topological defects in liquid crystals, which you can find [here](https://chemistrycommunity.nature.com/channels/1465-behind-the-paper/posts/66317-bringing-order-to-disorder-topological-defects-in-liquid-crystals). 
 
+The Department of Engineering Science at Oxford have written a [featured news item on the paper](https://eng.ox.ac.uk/news/bringing-order-to-disorder-in-liquid-crystals/).
+
 
 ## 31st July 2019
 
