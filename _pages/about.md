@@ -25,12 +25,9 @@ The Department of Engineering Science at Oxford have written a [featured news it
   <figcaption>Topological defect confinement channel created with direct laser writing</figcaption>
 </figure>
 
-
 ## 31st July 2019
 
-<figure>
-  <img src="http://hhpp.github.io/images/IET Badge 2019.jpg"/>
-</figure>
+![IET award badge](http://hhpp.github.io/images/IET Badge 2019.jpg)
 
 I have been announced as the winner of an [Institution of Engineering and Technology (IET)](https://www.theiet.org/) postgraduate research award! 
 
