@@ -11,7 +11,7 @@ I have written a "Behind The Paper" post explaining topological defects in liqui
 
 The Department of Engineering Science at Oxford have written a [featured news item on the paper](https://eng.ox.ac.uk/news/bringing-order-to-disorder-in-liquid-crystals/).
 
-<figure>
+<figure class="align-center">
   <img src="http://hhpp.github.io/images/bifurcated_channel6.gif" alt="Defect confinement channel"/>
   <figcaption>Topological defect confinement channel created with direct laser writing</figcaption>
 </figure>
