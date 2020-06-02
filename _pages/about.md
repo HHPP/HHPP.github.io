@@ -16,7 +16,7 @@ Latest News
 
 The International Liquid Crystal Society (ILCS) have chosen my image entitled '[Trapped Transitions](https://www.ilcsoc.org/art-contest/featured-art/)' as their Liquid Crystal Picture of the Month! It will be featured on the [ILCS homepage](https://www.ilcsoc.org/) throughout June. 
 
-You can see other beautiful pictures of liquid crystal related images in the [ILCS Gallery](https://www.ilcsoc.org/art-contest/gallery/).
+You can see other beautiful liquid crystal related images in the [ILCS Gallery](https://www.ilcsoc.org/art-contest/gallery/).
 
 ![Trapped Transitions](http://hhpp.github.io/images/Trapped Transitions.png)
 
