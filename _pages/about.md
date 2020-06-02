@@ -19,7 +19,6 @@ The International Liquid Crystal Society (ILCS) have chosen my image entitled '[
 You can see other beautiful pictures of liquid crystal related images in the [ILCS Gallery](https://www.ilcsoc.org/art-contest/gallery/).
 
 ![Trapped Transitions](http://hhpp.github.io/images/Trapped Transitions.png)
-"Trapped Transitions"
 
 ## 5th May 2020
 
