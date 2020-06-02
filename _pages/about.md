@@ -12,6 +12,15 @@ I'm John Sandford O'Neill, a PhD student at the University of Oxford working on 
 
 Latest News
 ======
+## 2nd June 2020
+
+The International Liquid Crystal Society (ILCS) have chosen my image entitled '[Trapped Transitions](https://www.ilcsoc.org/art-contest/featured-art/)' as their Liquid Crystal Picture of the Month! It will be featured on the [ILCS homepage](https://www.ilcsoc.org/) throughout June. 
+
+You can see other beautiful pictures of liquid crystal related images in the [ILCS Gallery](https://www.ilcsoc.org/art-contest/gallery/).
+
+![Trapped Transitions](http://hhpp.github.io/images/Trapped Transitions.png)
+"Trapped Transitions"
+
 ## 5th May 2020
 
 My latest paper "Electrically-tunable positioning of topological defects in liquid crystals" has been [published in Nature Communications today](https://www.nature.com/articles/s41467-020-16059-1)! 
