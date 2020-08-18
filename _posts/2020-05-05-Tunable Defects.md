@@ -5,7 +5,9 @@ permalink: /blog/2020/05/NCommsPaper/
 tags:
 ---
 
-My latest paper "Electrically-tunable positioning of topological defects in liquid crystals" has been [published in Nature Communications today](https://www.nature.com/articles/s41467-020-16059-1)! 
+![Nature Comms](http://hhpp.github.io/images/defects_title.png)
+
+My latest paper ["Electrically-tunable positioning of topological defects in liquid crystals"](https://www.nature.com/articles/s41467-020-16059-1) has been published in Nature Communications today!
 
 I have written a "Behind The Paper" post explaining topological defects in liquid crystals to a general audience, which you can find [here](https://chemistrycommunity.nature.com/channels/1465-behind-the-paper/posts/66317-bringing-order-to-disorder-topological-defects-in-liquid-crystals). 
 
